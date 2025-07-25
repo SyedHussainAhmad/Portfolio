@@ -23,10 +23,6 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
    * **Bot-Based-Event-Booking-System**
      🔗 [github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
 
----
-
-## 📂 Other Projects
-
 7. **CPP**
 
    * **Object-Oriented-Programming**
