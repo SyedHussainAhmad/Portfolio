@@ -7,8 +7,10 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 1. **Machine Learning**
 
    * **Human-activity-recognition**
+
      🔗 [github.com/SyedHussainAhmad/human-activity-recognition](https://github.com/SyedHussainAhmad/human-activity-recognition)
    * **Credit-Card-Fraud-Detection**
+
      🔗 [github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection](https://github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection)
 
 2. **Deep Learning**
@@ -18,12 +20,16 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 4. **Computer Vision**
 
    * **License-Plate-Detection-with-YOLOv5**
+
      🔗 [https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5](https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5)
    * **Sign-Language-Digits-Classification**
+
      🔗 [https://github.com/SyedHussainAhmad/Sign-Language-Digits-Classification](https://github.com/SyedHussainAhmad/Sign-Language-Digits-Classification)
-   * **Currency_Note_Template_Matching**
-     🔗 [https://github.com/SyedHussainAhmad/Currency_Note_Template_Matching](https://github.com/SyedHussainAhmad/Currency_Note_Template_Matching)
+   * **Currency-Note-Template-Matching**
+
+     🔗 [https://github.com/SyedHussainAhmad/Currency-Note-Template-Matching](https://github.com/SyedHussainAhmad/Currency-Note-Template-Matching)
    * **Binary-Classification-DNN**
+
      🔗 [https://github.com/SyedHussainAhmad/Binary-Classification-DNN](https://github.com/SyedHussainAhmad/Binary-Classification-DNN)
      
 5. **Langchain**
@@ -31,6 +37,7 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 6. **Bots**
 
    * **Bot-Based-Event-Booking-System**
+
      🔗 [github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
 
 7. **n8n Workflows**
@@ -60,6 +67,7 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 17. **CPP**
 
    * **Object-Oriented-Programming**
+
      🔗 [github.com/SyedHussainAhmad/Object-Oriented-Programming](https://github.com/SyedHussainAhmad/Object-Oriented-Programming)
 
 ---
