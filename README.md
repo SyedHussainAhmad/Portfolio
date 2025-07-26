@@ -6,7 +6,7 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 ---
 1. **Machine Learning**
 
-   * **human-activity-recognition**
+   * **Human-activity-recognition**
      🔗 [github.com/SyedHussainAhmad/human-activity-recognition](https://github.com/SyedHussainAhmad/human-activity-recognition)
    * **Credit-Card-Fraud-Detection**
      🔗 [github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection](https://github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection)
@@ -17,6 +17,15 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 
 4. **Computer Vision**
 
+   * **License-Plate-Detection-with-YOLOv5**
+     🔗 [https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5](https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5)
+   * **Sign-Language-Digits-Classification**
+     🔗 [https://github.com/SyedHussainAhmad/Sign-Language-Digits-Classification](https://github.com/SyedHussainAhmad/Sign-Language-Digits-Classification)
+   * **Currency_Note_Template_Matching**
+     🔗 [https://github.com/SyedHussainAhmad/Currency_Note_Template_Matching](https://github.com/SyedHussainAhmad/Currency_Note_Template_Matching)
+   * **Binary-Classification-DNN**
+     🔗 [https://github.com/SyedHussainAhmad/Binary-Classification-DNN](https://github.com/SyedHussainAhmad/Binary-Classification-DNN)
+     
 5. **Langchain**
 
 6. **Bots**
