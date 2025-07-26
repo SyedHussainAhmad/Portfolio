@@ -6,7 +6,7 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 ---
 1. **Machine Learning**
 
-   * **Human-activity-recognition**
+   * **Human-Activity-Recognition**
 
      🔗 [github.com/SyedHussainAhmad/human-activity-recognition](https://github.com/SyedHussainAhmad/human-activity-recognition)
    * **Credit-Card-Fraud-Detection**
