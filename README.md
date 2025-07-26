@@ -46,8 +46,12 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
 ---
 8. **React JS**
 
-10. **Dotnet**
+10. **Dotnet MVC**
 
+   * **Expense-Tracker**
+
+     🔗[https://github.com/SyedHussainAhmad/Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
+          
 11. **Django**
 
 12. **Node Js**
