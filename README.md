@@ -2,6 +2,7 @@
 
 Welcome to the centralized repository index for SyedHussainAhmad’s GitHub projects. This README organizes all folders by topic. Each folder contains links to its corresponding repositories.
 
+**Artificial Intelligence**
 ---
 1. **Machine Learning**
 
@@ -23,30 +24,34 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
    * **Bot-Based-Event-Booking-System**
      🔗 [github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
 
-7. **CPP**
+7. **n8n Workflows**
+
+**Web Dev**
+---
+8. **React JS**
+
+10. **Dotnet**
+
+11. **Django**
+
+12. **Node Js**
+
+13. **Three Js**
+
+**App Dev**
+---
+14. **Kotlin App Dev**
+
+15. **Flutter**
+
+**Development**
+---
+16. Databases
+
+17. **CPP**
 
    * **Object-Oriented-Programming**
      🔗 [github.com/SyedHussainAhmad/Object-Oriented-Programming](https://github.com/SyedHussainAhmad/Object-Oriented-Programming)
-
-8. **Python**
-
-9. **React JS**
-
-10. **DataBase**
-
-11. **Dotnet**
-
-12. **Kotlin App Dev**
-
-13. **Flutter**
-
-14. **Django**
-
-15. **Node Js**
-
-16. **n8n Workflows**
-
-17. **Three Js**
 
 ---
 
