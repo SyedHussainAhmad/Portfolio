@@ -31,6 +31,9 @@ Welcome to the centralized repository index for SyedHussainAhmad’s GitHub proj
    * **Binary-Classification-DNN**
 
      🔗 [https://github.com/SyedHussainAhmad/Binary-Classification-DNN](https://github.com/SyedHussainAhmad/Binary-Classification-DNN)
+   * **Image-Video-Colorization-using-Autoencoder**
+
+     🔗 [https://github.com/SyedHussainAhmad/Image-Video-Colorization-using-Autoencoder](https://github.com/SyedHussainAhmad/Image-Video-Colorization-using-Autoencoder)
      
 5. **Langchain**
 
@@ -84,4 +87,11 @@ To explore any project, click its link above. For folders without links, navigat
 
 ---
 
-*Last updated: July 25, 2025*
+## 👤 Author
+
+**Syed Hussain Ahmad**
+- GitHub: [@SyedHussainAhmad](https://github.com/SyedHussainAhmad)
+- LinkedIn: [Syed Hussain Ahmad](https://www.linkedin.com/in/syedhussainahmad/)
+
+---
+⭐ Star this repository if you found it helpful!
