@@ -35,7 +35,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 
 6. **Bots**  
    - **Bot-Based-Event-Booking-System**  
-     🔗 [github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
+     🔗 [Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
 
 7. **n8n Automations**  
    - **Client Onboarding System**  
@@ -146,7 +146,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 
 2. **Dotnet MVC**  
    - **Expense-Tracker**  
-     🔗 [github.com/SyedHussainAhmad/Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
+     🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
 
 3. **Django**  
    *(Links coming soon)*
