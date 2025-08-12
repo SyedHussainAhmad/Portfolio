@@ -12,13 +12,8 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
    - **Credit-Card-Fraud-Detection**  
      🔗 [Credit-Card-Fraud-Detection](https://github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection)
 
-2. **Deep Learning**  
-   *(Links coming soon)*
 
-3. **Gen AI**  
-   *(Links coming soon)*
-
-4. **Computer Vision**  
+2. **Deep Learning Computer Vision**  
    - **License-Plate-Detection-with-YOLOv5**  
      🔗 [License-Plate-Detection-with-YOLOv5](https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5)  
    - **Sign-Language-Digits-Classification**  
@@ -30,14 +25,11 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
    - **Image-Video-Colorization-using-Autoencoder**  
      🔗 [Image-Video-Colorization-using-Autoencoder](https://github.com/SyedHussainAhmad/Image-Video-Colorization-using-Autoencoder)
 
-5. **Langchain**  
-   *(Links coming soon)*
-
-6. **Bots**  
+3. **Bots**  
    - **Bot-Based-Event-Booking-System**  
      🔗 [Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
 
-7. **n8n Automations**  
+4. **n8n Automations**  
    - **Client Onboarding System**  
      🔗 [n8n Automations – Client Onboarding System](https://github.com/SyedHussainAhmad/n8n-Automations/tree/main/Client%20Onboarding%20System)  
    - **FB Ad Spy Tool**  
