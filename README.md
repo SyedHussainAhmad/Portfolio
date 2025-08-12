@@ -171,8 +171,9 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 
 ## Development
 
-1. **Databases**  
-   *(Links coming soon)*
+1. **Web Scraping**  
+   - **Whatsapp-Chat-Number-Scraper**  
+     🔗 [Whatsapp-Chat-Number-Scraper](https://github.com/SyedHussainAhmad/Whatsapp-Chat-Number-Scraper)
 
 2. **CPP**  
    - **Object-Oriented-Programming**  
