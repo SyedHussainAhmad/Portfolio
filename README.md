@@ -13,7 +13,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
      🔗 [Credit-Card-Fraud-Detection](https://github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection)
 
 
-2. **Deep Learning Computer Vision**  
+2. **Deep Learning in Computer Vision**  
    - **License-Plate-Detection-with-YOLOv5**  
      🔗 [License-Plate-Detection-with-YOLOv5](https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5)  
    - **Sign-Language-Digits-Classification**  
