@@ -39,12 +39,22 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 - **SmartPhone-Resale-Agent**  
   🔗 [SmartPhone-Resale-Agent](https://github.com/SyedHussainAhmad/SmartPhone-Resale-Agent)
 
+- **Chat-with-website**  
+  🔗 [Chat-with-website](https://github.com/SyedHussainAhmad/Chat-with-website)
+
+#### **MCP**
+- **e-Commerce-Product-Hunt**  
+  🔗 [e-Commerce-Product-Hunt](https://github.com/SyedHussainAhmad/e-Commerce-Product-Hunt)
+
 
 ## Agentic AI
 
 #### **LangGraph**  
 - **SmartPhone-Resale-Agent**  
   🔗 [SmartPhone-Resale-Agent](https://github.com/SyedHussainAhmad/SmartPhone-Resale-Agent)
+
+- **YouTube-Shorts-Agent**  
+  🔗 [YouTube-Shorts-Agent](https://github.com/SyedHussainAhmad/YouTube-Shorts-Agent)
   
 #### **n8n Automations**  
 - **Client Onboarding System**  
