@@ -42,6 +42,9 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 - **Chat-with-website**  
   🔗 [Chat-with-website](https://github.com/SyedHussainAhmad/Chat-with-website)
 
+- **Chat-with-Your-GitHub-Codebase**  
+  🔗 [Chat-with-Your-GitHub-Codebase](https://github.com/SyedHussainAhmad/Chat-with-Your-GitHub-Codebase)
+
 #### **MCP**
 - **e-Commerce-Product-Hunt**  
   🔗 [e-Commerce-Product-Hunt](https://github.com/SyedHussainAhmad/e-Commerce-Product-Hunt)
@@ -166,12 +169,12 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
      🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
 
 #### **Blazor**
-   - **Expense-Tracker**  
-     🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
+   - **Prints-Studio**  
+     🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Prints-Studio)
 
 #### **Clean Architecture**
-   - **Expense-Tracker**  
-     🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Expense-Tracker)
+   - **Tradesmen-Marketplace**  
+     🔗 [Tradesmen-Marketplace](https://github.com/SyedHussainAhmad/Tradesmen-Marketplace)
 
 ---
 
