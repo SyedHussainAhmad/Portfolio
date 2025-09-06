@@ -195,7 +195,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
   🔗 [Object-Oriented-Programming](https://github.com/SyedHussainAhmad/Object-Oriented-Programming)
 
 **VS Code Extensions**  
-- **Code-Pilot-VSCode-Extension**
+- **Code-Pilot-VSCode-Extension**  
   🔗 [Code-Pilot-VSCode-Extension](https://github.com/SyedHussainAhmad/Code-Pilot-VSCode-Extension)
 
 ---
