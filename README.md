@@ -12,7 +12,6 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 - **Credit-Card-Fraud-Detection**  
   🔗 [Credit-Card-Fraud-Detection](https://github.com/SyedHussainAhmad/Credit-Card-Fraud-Detection)
 
-
 #### **Deep Learning in Computer Vision**  
 - **License-Plate-Detection-with-YOLOv5**  
   🔗 [License-Plate-Detection-with-YOLOv5](https://github.com/SyedHussainAhmad/License-Plate-Detection-with-YOLOv5)  
@@ -28,7 +27,9 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 #### **Intelligent Bots**  
 - **Bot-Based-Event-Booking-System**  
   🔗 [Bot-Based-Event-Booking-System](https://github.com/SyedHussainAhmad/Bot-Based-Event-Booking-System)
-  
+
+---
+
 ## Generative AI
 
 #### **Langchain**  
@@ -49,6 +50,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 - **e-Commerce-Product-Hunt**  
   🔗 [e-Commerce-Product-Hunt](https://github.com/SyedHussainAhmad/e-Commerce-Product-Hunt)
 
+---
 
 ## Agentic AI
 
@@ -170,7 +172,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 
 #### **Blazor**
    - **Prints-Studio**  
-     🔗 [Expense-Tracker](https://github.com/SyedHussainAhmad/Prints-Studio)
+     🔗 [Prints-Studio](https://github.com/SyedHussainAhmad/Prints-Studio)
 
 #### **Clean Architecture**
    - **Tradesmen-Marketplace**  
