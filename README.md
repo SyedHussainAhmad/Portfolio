@@ -32,14 +32,7 @@ Welcome to the centralized repository index for **SyedHussainAhmad**’s GitHub 
 
 ## Generative AI
 
-#### **Langchain**  
-- **SmartPhone-Resale-Agent**  
-  🔗 [SmartPhone-Resale-Agent](https://github.com/SyedHussainAhmad/SmartPhone-Resale-Agent)
-
-#### **RAG-Based Apps**  
-- **SmartPhone-Resale-Agent**  
-  🔗 [SmartPhone-Resale-Agent](https://github.com/SyedHussainAhmad/SmartPhone-Resale-Agent)
-
+#### **Langchain / RAG-Based Apps**  
 - **Chat-with-website**  
   🔗 [Chat-with-website](https://github.com/SyedHussainAhmad/Chat-with-website)
 
